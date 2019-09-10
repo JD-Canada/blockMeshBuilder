@@ -1,0 +1,17 @@
+
+
+
+faceSet f0 new
+faceSet f0 add boxToFace ( -0.005 0.0 0.0 )( 0.005 5.0 0.9 )
+
+faceSet f1 new
+faceSet f1 add boxToFace ( -0.005 0.0 0.9 )( 0.005 5.0 100.0 )
+
+faceSet f2 new
+faceSet f2 add boxToFace ( 10.99 0.0 0.0 )( 11.025 5.0 0.4 )
+
+faceSet f3 new
+faceSet f3 add boxToFace ( 10.99 0.0 0.4 )( 11.025 5.0 100.0 )
+
+
+
